@@ -26,4 +26,11 @@ I'm a Computer Science student at Concordia University, St. Paul. I'm interested
 - Learn more about back-end development
 - Gain experience with Docker and cloud technology
 - Build projects for my software engineering portfolio
+
+  
+## Connect With Me
+
+- **LinkedIn:** www.linkedin.com/in/trevis-tonan-3620a9313
+- **Email:** trevisakonde@gmail.com
+
   

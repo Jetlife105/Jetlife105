@@ -1,4 +1,4 @@
-# Hi, I'm Trevis Tonan!
+# Hey, I'm Trevis Tonan!
 
 
 

@@ -34,3 +34,12 @@ I'm a Computer Science student at Concordia University, St. Paul. I'm interested
 - **Email:** trevisakonde@gmail.com
 
   
+## A Little About Me
+
+- I'm interested in software engineering and technology.
+- I enjoy solving problems and learning new programming skills.
+- Outside of coding, I enjoy fitness, Track & field, and investing.
+- I'm always looking for opportunities to improve and gain experience.
+
+Thanks for checking out my profile!
+  
